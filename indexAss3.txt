@@ -1,0 +1,72 @@
+                                                  HTMLCODE
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header>
+    <div class="h">
+      <nav>
+        <a href="index.html">HOME</a></li>
+        <a href="index.html">CONTACT US</a></li>
+        <a href="index.html">PRODUCTS</a></li>
+
+      </nav>
+    </div>
+  </header>
+  <main>
+    <section class="first">
+      <div>
+        <h1>WELCOME TO WORLD OF CANDIES</h1>
+      </div>
+      <div> </div>
+    </section>
+    <section id="candyInfo">
+      <div>
+        <h2>History</h2>
+        <p>The sweet brand is named after the town of Werther in Westphalia, where the company was founded in 1903. In
+          1969, the sweet began marketing under the brand name Werthers Echte. The brand name Werther's Original was
+          adopted in the 1990s for the international market.[2] They are now manufactured nearby, in Halle (Westfalen).
+        </p>
+        <h2>Product</h2>
+        <p>The original Werthers Echte was a caramel hard candy. Later variants included chewy toffees, and a soft, waxy
+          form which melts easily inside the mouth called "butterscotch-melts." A variant with chocolate filling is also
+          available, as well as three sugarless variants that use isomalt as a sugar substitute: the original
+          butterscotch flavour, a butterscotch coffee swirl, and a butterscotch mint swirl. A product available in the
+          United Kingdom is "Werther's Chocolate," a dark and milk chocolate with butterscotch running through it, sold
+          in the same packaging and wrappers as Werther's Originals. A variant available in Canada and the United
+          States, "Butterscotch Apple Filled," has a green-apple-flavored filling.</p>
+        <h2>Commercials</h2>
+        <p>Well-known TV advertisements in Germany and the United Kingdom from the late 1980s featured an older man
+          offering Werther's butterscotch to his grandson.The actor Arnold Peters appeared in them.[3] In the United
+          States commercials, TV actor Robert Rockwell played the kind-hearted grandfather. The grandson was played by
+          Raymond Hewitt.One of these ads[4] was dubbed into Japanese[5] and aired in Japan in the early 2000s. Its
+          off-putting voice acting led to it becoming an Internet meme in Japan on sites such as 2channel and Nico Nico
+          Douga.[6][better source needed]One British advertisement consisted of a montage of the grandfather and
+          grandson bonding together (for example, pointing at animals out of train windows). The lyrics of the song
+          which accompanied this ended: "When one who loves you says to you: You're someone very special too."</p>
+      </div>
+    </section>
+    <section id="hover">
+      <h2> Let's buy some candies</h2>
+      <div class="button1">
+        <a href="index.html" class="b1">
+          BUY
+        </a>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <p>@Copyright 2023</p>
+  </footer>
+</body>
+
+</html>
